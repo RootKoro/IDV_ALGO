@@ -1,0 +1,326 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.0f1 (3721df5a8b28) revision 3613151'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'fr' Physical Memory: 7977 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Public/Documents/IDV4/IDV4-Etape1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55014
+Successfully changed project path to: C:/Users/Public/Documents/IDV4/IDV4-Etape1
+C:/Users/Public/Documents/IDV4/IDV4-Etape1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 110.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0f1 (3721df5a8b28)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Public/Documents/IDV4/IDV4-Etape1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics (ID=0x9b41)
+    Vendor:   
+    VRAM:     3988 MB
+    Driver:   26.20.100.7926
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56008
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004745 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 95.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.094 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001325 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 52.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.615 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1817 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.4 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2259.
+Total: 2.973500 ms (FindLiveObjects: 0.240500 ms CreateObjectMapping: 0.087500 ms MarkObjects: 2.488400 ms  DeleteObjects: 0.155400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Level-1-1.unity
+  artifactKey: Guid(25c36ea09b753754686494d4bccf864d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level-1-1.unity using Guid(25c36ea09b753754686494d4bccf864d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '983645d84a4c0941be3363aeb6688988') in 0.089399 seconds
+  Import took 0.097689 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003024 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.984 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.5 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2267.
+Total: 4.709900 ms (FindLiveObjects: 0.559000 ms CreateObjectMapping: 0.287100 ms MarkObjects: 3.726900 ms  DeleteObjects: 0.134100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 160.131319 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Caméra.prefab
+  artifactKey: Guid(bf7c9553de0516240ae504697ea0797c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Caméra.prefab using Guid(bf7c9553de0516240ae504697ea0797c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '301750425242a9707c80bc112b792fac') in 0.070756 seconds
+  Import took 0.075777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 312.168599 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/GameEngine.prefab
+  artifactKey: Guid(99985fee3b1355545931e49dc538fcae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/GameEngine.prefab using Guid(99985fee3b1355545931e49dc538fcae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1add0d91da2f9f8db53882703a2f58b5') in 0.034152 seconds
+  Import took 0.048399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.975951 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/GameEngine.prefab
+  artifactKey: Guid(99985fee3b1355545931e49dc538fcae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/GameEngine.prefab using Guid(99985fee3b1355545931e49dc538fcae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6095db126064791fa68702c6d32cfa0e') in 0.016046 seconds
+  Import took 0.025959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.304026 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3353d464e552fd89bf9f336bb6518f') in 0.007532 seconds
+  Import took 0.014247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.444763 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '544e828414a2d432b2ce57861d2c6559') in 0.015140 seconds
+  Import took 0.077200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 79.993786 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5f31f24201dd82eb3f8c1b0df6c0d85') in 0.015288 seconds
+  Import took 0.027439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.890016 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '338cc7ca30467917b8ae568fd1c81b5f') in 0.014404 seconds
+  Import took 0.025317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.211198 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c4b1938847edf98ec07cd4f3d6698e3') in 0.014708 seconds
+  Import took 0.027686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.588476 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9cbe3d37dab8a2cefd19ec3568d845e') in 0.012882 seconds
+  Import took 0.023474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057833 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9cbe3d37dab8a2cefd19ec3568d845e') in 0.012683 seconds
+  Import took 0.022648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.877637 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3cf2beaaa35b3085e87523ba3a84af4') in 0.014695 seconds
+  Import took 0.025129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.004606 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3d5eac88e0a5f71fe5ee77a71549f4d') in 0.009305 seconds
+  Import took 0.016895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.905424 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12f057bce1890b6d485f7e1ccc3fd52b') in 0.007318 seconds
+  Import took 0.012775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.664136 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e32aa977d649fbc5e91a8a3d526b12') in 0.020790 seconds
+  Import took 0.035527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.264271 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5af40cecca8735aa538478fb3c44ebfd') in 0.020784 seconds
+  Import took 0.031503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.880930 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0ae044ad508d647f6ce43e8c70b4e91') in 0.014143 seconds
+  Import took 0.079756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.974551 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7941ff7e1e5d4bf5b84120498f8c205d') in 0.019873 seconds
+  Import took 0.032095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.395035 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a362d2a1337c7d5e59b1c5068df7b6fb') in 0.013414 seconds
+  Import took 0.024767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.937679 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89923bf496efd873f178010b30d05deb') in 0.016726 seconds
+  Import took 0.028913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.475973 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f6d6fb7d57cc325b4266711ba0ddc45') in 0.013092 seconds
+  Import took 0.023176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.227367 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e964ada007d7d9916f6d40e909a3acbe') in 0.014728 seconds
+  Import took 0.025056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.449947 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be888f8151569ea2a5c9e827fdc53b56') in 0.069709 seconds
+  Import took 0.083890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.337418 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab
+  artifactKey: Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/Player.prefab using Guid(4995d5938f45a7146851920150b22396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '813a37dc84dba0a725c668605bb94db9') in 0.018354 seconds
+  Import took 0.030103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.354822 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Script/Player.cs
+  artifactKey: Guid(279b87af926392d4b81f8250c9865e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Script/Player.cs using Guid(279b87af926392d4b81f8250c9865e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1968d3454b73175abf7e7cb0c7be2976') in 0.017148 seconds
+  Import took 0.078995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 138.786226 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/PlayerWithCamera.prefab
+  artifactKey: Guid(e2ec32477a38709418f5df5d789f0439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/PlayerWithCamera.prefab using Guid(e2ec32477a38709418f5df5d789f0439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c2be373fba6eb6959cbc756f8476e65') in 0.076651 seconds
+  Import took 0.084465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007974 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Prefab/PlayerWithCamera.prefab
+  artifactKey: Guid(e2ec32477a38709418f5df5d789f0439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Prefab/PlayerWithCamera.prefab using Guid(e2ec32477a38709418f5df5d789f0439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c2be373fba6eb6959cbc756f8476e65') in 0.010299 seconds
+  Import took 0.017275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 282.907007 seconds.
+  path: Assets/Cainos/Pixel Art Top Down - Basic/Script/interface
+  artifactKey: Guid(6c9919df202d15a4e847a4ab00a4c518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cainos/Pixel Art Top Down - Basic/Script/interface using Guid(6c9919df202d15a4e847a4ab00a4c518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fcad5e5b273fdf786124db521cef23e') in 0.030025 seconds
+  Import took 0.042125 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
