@@ -1,1 +1,1 @@
-# idvGame
+# Some algorithms i wrote
